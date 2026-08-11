@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - FurongYe
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - IOHprofiler/IOHexperimenter
+  - IOHprofiler/IOHalgorithm
+  - FurongYe/Configurable-Genetic-Algorithm
+  - FurongYe/BlockBuildingBenchmark
+  - FurongYe/AAAI25-MaxSAT

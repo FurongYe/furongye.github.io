@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-07-15 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Very happy to present our work [block-bench](https://dl.acm.org/doi/10.1145/3795095.3805071) at GECCO 2026 in San José, Costa Rica.

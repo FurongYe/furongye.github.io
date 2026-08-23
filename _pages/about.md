@@ -28,6 +28,7 @@ latest_posts:
 
 
 I am a postdoctoral researcher at **LIACS, Leiden University**, working on the [XAIPRE](https://xaipre.leidenuniv.nl/) project on explainable AI for predictive maintenance.
+I will join Carola Doerr's group at **Sorbonne Université** as a Marie Curie Postdoctoral Fellow in September, working on the [TSADA](https://cordis.europa.eu/project/id/101282832) project about Trustworthy and Sustainable Automate Design of Algorithms.
 
 My research focuses on **optimization and automated algorithm design**, with an emphasis on discrete and combinatorial optimization. I am particularly interested in understanding the behavior of iterative heuristics and their search trajectories across different optimization landscapes. By leveraging these insights, I aim to develop methods that can **automatically adapt, configure, and design algorithms** for specific problem characteristics, ultimately enabling more reliable and explainable automated algorithm design.
 

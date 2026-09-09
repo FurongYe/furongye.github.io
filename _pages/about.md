@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 
-I am a postdoc at LIP6, **Sorbonne Université**, working with Carola Doerr.
+I am a postdoc at **Sorbonne Université, CNRS, LIP6**, working with Carola Doerr.
 My position is supported by the Marie Curie Postdoctoral Fellowship project [TSADA](https://cordis.europa.eu/project/id/101282832): 
 Trustworthy and Sustainable Automate Design of Algorithms for the Generative AI Era.
 

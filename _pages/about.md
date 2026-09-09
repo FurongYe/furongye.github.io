@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research at Leiden Universeity.
+subtitle: Postdoctoral Researcher, Sorbonne Université, CNRS, LIP6
 
 profile:
   align: right
